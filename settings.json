@@ -2174,6 +2174,14 @@
       "requires": []
     }
   ],
+  "vhdl": [
+    {
+      "command": "ghdl-ls",
+      "url": "https://ghdl.github.io/ghdl/",
+      "description": "A VHDL language server",
+      "requires": []
+    }
+  ],
   "vim": [
     {
       "command": "vim-language-server",

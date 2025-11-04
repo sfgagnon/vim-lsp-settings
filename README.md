@@ -205,6 +205,7 @@ You can change the directory to install servers by set `g:lsp_settings_servers_d
 | Vala              | vala-language-server                |    No     |      No       |
 | Verilog           | verible-verilog-ls                  | UNIX Only |      Yes      |
 | Veryl             | veryl-ls                            |    Yes    |      Yes      |
+| VHDL              | ghdl-ls                             |    No     |      Yes      |
 | Vue               | volar-server (Vue Language Tools)   |    Yes    |      Yes      |
 | Vue               | vls                                 |    Yes    |      Yes      |
 | Vue               | biome                               |    Yes    |      Yes      |
